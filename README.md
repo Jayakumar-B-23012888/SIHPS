@@ -14,11 +14,13 @@ Ministry of Environment
 Develop a platform named "GreenTech Recycle" that enables users to find the nearest e-waste collection and recycling facilities. The site offers educational pop-ups highlighting the hazards of e-waste and the environmental and health impacts of improper disposal. Users can input their device model to receive credit points based on the estimated precious metals recoverable from the device. Points can be redeemed for rewards or donations to environmental causes.
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2024-05-08 201503](https://github.com/gowshik145/SIHPS/assets/155086127/ebb2a5a2-86c0-46f1-ac50-01a27ffedeae)
+![170501](https://github.com/Jayakumar-B-23012888/SIHPS/assets/152375796/11442112-8f8b-4ed9-b519-3c4a9e52a745)
+
 
 
 ## Use Cases
-![Screenshot 2024-05-08 202211](https://github.com/gowshik145/SIHPS/assets/155086127/e5977c56-7dd9-4e26-96fd-f25ac0b72150)
+![170502](https://github.com/Jayakumar-B-23012888/SIHPS/assets/152375796/f33d47a5-d1ca-4105-9cdc-eaeab9a38d97)
+
 
 
 ## Technology Stack
